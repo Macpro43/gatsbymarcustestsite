@@ -35,7 +35,7 @@ function Index() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          This project
+          This project is where its at. Is that ok?
         </a>{' '}
         is a <a href="https://www.gatsbyjs.org/">Gatsby</a> app with two
         directories, <code>/src</code> for static content and <code>/api</code>{' '}
